@@ -1,0 +1,251 @@
+*{
+    font-family: 'Sriracha', cursive;;
+}
+body{
+    background: rgb(97,51,24);
+}
+#ananda-head1{
+    display: flex;
+    background:rgb(185, 156, 107) ;
+    border: solid 1px whitesmoke;
+    width: 40%;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    font-size:30px;
+    border-radius: 50px;
+    margin-left: 30%;
+    margin-top: 40px;
+}
+#ananda1 h1{
+    color: whitesmoke;
+}
+#ananda-content1{
+    border: solid 2px whitesmoke;
+    background-color: rgb(185, 156, 107);
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+    width: 800px;
+    margin-left: 551px;
+    border-radius: 10px;
+}
+#ananda-content1 h2{
+    margin-left:10px ;
+    color: rgb(250, 242, 227);
+    float: left;
+    font-size: 40px;
+}
+#pic1{
+    float: right;
+    width: 400px;
+    margin:10px;
+}
+#hr1{
+    width: 800px;
+}
+#ananda-content2{
+    border: solid 2px whitesmoke;
+    background-color: rgb(185, 156, 107);
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+    width: 800px;
+    margin-left: 551px;
+    border-radius: 10px;
+}
+#ananda-content2 h2{
+    margin-left:10px ;
+    color: rgb(250, 242, 227);
+    float: left;
+    font-size: 40px;
+}
+#pic2{
+    float: right;
+    width: 400px;
+    margin:10px;
+}
+#hr2{
+    width: 800px;
+}
+#ananda-content3{
+    border: solid 2px whitesmoke;
+    background-color: rgb(185, 156, 107);
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+    width: 800px;
+    margin-left: 551px;
+    border-radius: 10px;
+}
+#ananda-content3 h2{
+    margin-left:10px ;
+    color: rgb(250, 242, 227);
+    float: left;
+    font-size: 40px;
+}
+#pic3{
+    float: right;
+    width: 400px;
+    margin:10px;
+}
+#hr3{
+    width: 800px;
+}
+#ananda-content4{
+    border: solid 2px whitesmoke;
+    background-color: rgb(185, 156, 107);
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+    width: 800px;
+    margin-left: 551px;
+    border-radius: 10px;
+}
+#ananda-content4 h2{
+    margin-left:10px ;
+    color: rgb(250, 242, 227);
+    float: left;
+    font-size: 40px;
+}
+#pic4{
+    float: right;
+    width: 400px;
+    margin:10px;
+}
+#hr4{
+    width: 800px;
+}
+#ananda-content5{
+    border: solid 2px whitesmoke;
+    background-color: rgb(185, 156, 107);
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+    width: 800px;
+    margin-left: 551px;
+    border-radius: 10px;
+}
+#ananda-content5 h2{
+    margin-left:10px ;
+    color: rgb(250, 242, 227);
+    float: left;
+    font-size: 40px;
+}
+#pic5{
+    float: right;
+    width: 400px;
+    margin:10px;
+}
+#hr5{
+    width: 800px;
+}
+#ananda-content6{
+    border: solid 2px whitesmoke;
+    background-color: rgb(185, 156, 107);
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+    width: 800px;
+    margin-left: 551px;
+    border-radius: 10px;
+}
+#ananda-content6 h2{
+    margin-left:10px ;
+    color: rgb(250, 242, 227);
+    float: left;
+    font-size: 40px;
+}
+#pic6{
+    float: right;
+    width: 400px;
+    margin:10px;
+}
+#hr6{
+    width: 800px;
+}
+#ananda-content7{
+    border: solid 2px whitesmoke;
+    background-color: rgb(185, 156, 107);
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+    width: 800px;
+    margin-left: 551px;
+    border-radius: 10px;
+}
+#ananda-content7 h2{
+    margin-left:10px ;
+    color: rgb(250, 242, 227);
+    float: left;
+    font-size: 40px;
+}
+#pic7{
+    float: right;
+    width: 400px;
+    margin:10px;
+}
+#hr7{
+    width: 800px;
+}
+#ananda-head2{
+    display: flex;
+    background:rgb(185, 156, 107) ;
+    border: solid 1px whitesmoke;
+    width: 40%;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    font-size:30px;
+    border-radius: 50px;
+    margin-left: 30%;
+    margin-top: 40px;
+}
+#ananda2 h1{
+    color: whitesmoke;
+}
+#hr8{
+    width: 800px;
+}
+#ananda-content8{
+    border: solid 2px whitesmoke;
+    background:rgb(185, 156, 107);
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+    width: 800px;
+    margin-left: 551px;
+    border-radius: 10px;
+}
+#ananda-content8 h2{
+    margin-left:10px ;
+    color: rgb(250, 242, 227);
+    float: left;
+    font-size: 40px;
+}
+#pic8{
+    width: 400px;
+    margin:10px;
+    float: right;
+}
+#ananda-content9{
+    border: solid 2px whitesmoke;
+    background:rgb(185, 156, 107);
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+    width: 800px;
+    margin-left: 551px;
+    border-radius: 10px;
+}
+#ananda-content9 h2{
+    margin-left:10px ;
+    color: rgb(250, 242, 227);
+    float: left;
+    font-size: 40px;
+}
+#pic9{
+    float: right;
+    width: 400px;
+    margin:10px;
+}
