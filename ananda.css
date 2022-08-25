@@ -249,6 +249,9 @@ body{
     width: 400px;
     margin:10px;
 }
+#hr9{
+    width: 800px;
+}
 @media (max-width:500px) {
     body{
         background: rgb(97,51,24);
@@ -273,7 +276,7 @@ body{
         display: flex;
         flex-direction: column;
         width: 330px;
-        margin-left: 22px;
+        margin-left: 18px;
         border-radius: 10px;
     }#ananda-content1 h2{
         margin-left:13px ;
@@ -296,7 +299,7 @@ body{
         display: flex;
         flex-direction: column;
         width: 330px;
-        margin-left: 22px;
+        margin-left: 18px;
         border-radius: 10px;
     }#ananda-content2 h2{
         margin-left:13px ;
@@ -319,7 +322,7 @@ body{
         display: flex;
         flex-direction: column;
         width: 330px;
-        margin-left: 22px;
+        margin-left: 18px;
         border-radius: 10px;
     }#ananda-content3 h2{
         margin-left:13px ;
@@ -342,7 +345,7 @@ body{
         display: flex;
         flex-direction: column;
         width: 330px;
-        margin-left: 22px;
+        margin-left: 18px;
         border-radius: 10px;
     }#ananda-content4 h2{
         margin-left:13px ;
@@ -365,7 +368,7 @@ body{
         display: flex;
         flex-direction: column;
         width: 330px;
-        margin-left: 22px;
+        margin-left: 18px;
         border-radius: 10px;
     }#ananda-content5 h2{
         margin-left:13px ;
@@ -388,7 +391,7 @@ body{
         display: flex;
         flex-direction: column;
         width: 330px;
-        margin-left: 22px;
+        margin-left: 18px;
         border-radius: 10px;
     }#ananda-content6 h2{
         margin-left:13px ;
@@ -411,7 +414,7 @@ body{
         display: flex;
         flex-direction: column;
         width: 330px;
-        margin-left: 22px;
+        margin-left: 18px;
         border-radius: 10px;
     }#ananda-content7 h2{
         margin-left:13px ;
@@ -447,7 +450,7 @@ body{
         display: flex;
         flex-direction: column;
         width: 330px;
-        margin-left: 22px;
+        margin-left: 18px;
         border-radius: 10px;
     }#ananda-content8 h2{
         margin-left:13px ;
@@ -470,7 +473,7 @@ body{
         display: flex;
         flex-direction: column;
         width: 330px;
-        margin-left: 22px;
+        margin-left: 18px;
         border-radius: 10px;
     }#ananda-content9 h2{
         margin-left:13px ;
@@ -488,4 +491,3 @@ body{
     }  
 
 }
-
